@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/backjoon_1778.dir/src/1778.cpp.o -o backjoon_1778 
